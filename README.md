@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi everyone Welcome my dump 👋</h1>
+  <h1>Hi 👋</h1>
 </div>
 
 ## ℹ️ About Me
