@@ -27,4 +27,5 @@ I develop modern react, vue and angular apps for many clients based on core busi
 
 
 ## 📧 Contact
-<a href="https://www.linkedin.com/in/omrumbakitemiz"> <img src="https://user-images.githubusercontent.com/45968094/203048882-d22f9340-dbaa-4f37-866c-8884846cf135.png" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/omrumbakitemiz"><img width="48px" height="48px" src="https://user-images.githubusercontent.com/12871066/203301871-6a7b7c8c-c523-4938-af3f-49c9865f30bb.gif" alt="linkedin"/>
+</a>
