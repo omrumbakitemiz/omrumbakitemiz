@@ -25,7 +25,6 @@ I develop modern react, vue and angular apps for many clients based on core busi
 ![icons8-spring-logo-48](https://user-images.githubusercontent.com/12871066/203300452-74722f4f-76a1-4180-bcc1-85724cf0c290.png)
 ![icons8-spring-logo-40](https://user-images.githubusercontent.com/12871066/203300503-26ec39b0-9b43-44a7-b668-66dd6667344c.png)
 
-
 ## 📧 Contact
-<a href="https://www.linkedin.com/in/omrumbakitemiz"><img width="48px" height="48px" src="https://user-images.githubusercontent.com/12871066/203301871-6a7b7c8c-c523-4938-af3f-49c9865f30bb.gif" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/omrumbakitemiz"><img width="48px" height="48px" src="https://user-images.githubusercontent.com/12871066/203302514-3640ced9-8d37-416f-a57c-fa5623d8cbdb.gif" alt="linkedin"/>
 </a>
